@@ -26,4 +26,3 @@ static func clamp_angle(angle: float, start_angle: float, end_angle: float) -> f
 	if abs(n_min) < abs(n_max):
 		return start_angle
 	return end_angle
-

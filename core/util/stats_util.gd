@@ -75,5 +75,3 @@ static func linear_regression(x_measures: Array, y_measures: Array, limit: int =
 	line.b = y_mean - line.m * x_mean
 	
 	return line
-
-

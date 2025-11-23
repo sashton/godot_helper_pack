@@ -53,4 +53,3 @@ func success() -> bool:
 
 func is_completed() -> bool:
 	return _is_completed
-

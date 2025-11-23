@@ -67,4 +67,3 @@ func _physics_process(delta):
 		camera_offset = Vector2(_rand.randf_range(-1,1)*_camera_shake_amount, _rand.randf_range(-1,1)*_camera_shake_amount)
 	_camera.offset = camera_offset
 	_camera.rotation = rotation
-

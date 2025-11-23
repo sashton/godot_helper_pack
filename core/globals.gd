@@ -25,4 +25,3 @@ func erase(property_name: String) -> void:
 # removes all property values.
 func clear() -> void:
 	_properties.clear()
-
