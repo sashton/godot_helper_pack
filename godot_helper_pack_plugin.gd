@@ -98,5 +98,3 @@ func _handles(object) -> bool:
 
 func _make_visible(visible: bool) -> void:
 	_distribution_editor_tool_btn.visible = visible
-
-

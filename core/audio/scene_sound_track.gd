@@ -36,6 +36,3 @@ func stop() -> void:
 		if c is AudioStreamPlayer or c is AudioStreamPlayer2D or c is AudioStreamPlayer3D:
 			if c.playing:
 				c.stop()
-
-
-
